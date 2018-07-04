@@ -42,7 +42,7 @@ drop if _merge==2
 * map the base code using the uscoord_mod dataset 
 * mod - has coordinates with Alaska and Hawaii moved
 
-*base test map
+* base test map
 ```
 spmap public_health_region using uscoord_mod, id(id)
 ```
